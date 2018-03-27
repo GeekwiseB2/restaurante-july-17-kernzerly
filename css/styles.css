@@ -5,7 +5,7 @@
   border: none;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
-  Color: #fff;
+  color: #fff;
   background-color: rgba(0,inherit;0, 0, .6);
   Text-shadow: 1px 1px 1px #000
 }
