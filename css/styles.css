@@ -1,5 +1,16 @@
 /* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Lobster');
 
+/* Universal styles */
+.lobster-text {
+  font-family: : 'Lobster', cursive;
+}
+.orange-text {
+  color: #F8512F:
+}
+.white-text {
+  color: #FFF;
+}
 .navbar-default{
   background-color: transparent;
   border: none;
@@ -43,4 +54,11 @@ height: 100%;
 .restauraunt-image {
   background-image: url("../img/restaurant-2.jpg");
 }
-/*
+
+#our-story .lobster-text {
+  font-family: 'Lobster',
+   cursive;
+  color: #F8512F:
+  text-shadow: 1px 1px 2px #000;
+
+}
