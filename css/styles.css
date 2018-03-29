@@ -13,3 +13,34 @@
   color: #fff;
   text-shadow: 1px 1px 1px #000;
 }
+.navbar-default
+.navbar-nav>li>a:focus,
+  .navbar-default
+  .navbar-nav>li>a:hover {
+  color: #F65239;
+background-color: rgba (0, 0, 0,inherit;.25);
+
+}
+/* Carousel Styles */
+.item {
+  height: 450px;
+  background-position: center;
+}
+.wood-bg {
+  background-image: url("../img/wood-2.jpg");
+}
+
+.hero-logo {
+  width: 240px;
+}
+.flex-slide {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100%;
+}
+
+.restauraunt-image {
+  background-image: url("../img/restaurant-2.jpg");
+}
+/*
